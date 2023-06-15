@@ -4,6 +4,7 @@
 Відчини `mlp_fics_that_i_plan_to_translate.ods`, там список.
 
 Якщо, якимось чином дивним, ти бажаєш, щоб я взявся за переклад твого фанфіка українською, напиши сюди:
+
 https://www.fimfiction.net/user/595939/volkov
 
 Умови/зобов'язання, які я ставлю для перекладу:
@@ -18,6 +19,7 @@ I'm small, known by no one, random internet user, who having fun translating som
 Open  `mlp_fics_that_i_plan_to_translate.ods`, it is list (it is written in Ukrainian language).
 
 If you, for some reasons, want me to translate your fic, write PM here:
+
 https://www.fimfiction.net/user/595939/volkov
 
 Conditions/obligations that I set for the translation:
