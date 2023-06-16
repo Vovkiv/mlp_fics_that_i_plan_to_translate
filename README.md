@@ -46,6 +46,41 @@ If you ALLOWED me to use your cover, but DIDN'T specify edit permission, i would
 # I think i'm alright with all of this. How much this will cost?
 0, zero. It will cost you nothing. I do this because i love translating things. But, because of 0 cost, don't expect me to translate your fic as soon as possible, or to finish translating it at all.
 
+# Reminder about ghosting or ignoring
+Keep in mind, that even when we agreed and i will start translating your fic, i might need some additional info from you after that. Maybe clarification about context, source file for cover image, etc.
+So when you would write PM on fimfiction, or email, or issue, i would use it to contact with you.
+
+So, please, don't ghost me or ignore PMs. It's better to write back something like "Sorry, can't answer" or "No" then ignoring.
+If you want me to stop translating your fic or you want to take it down, instead of ignoring, please, write back on email, github issue or fimfiction.
+See next chapter.
+# You make really good translation, people like it! But, i decided that i want to take it down or stop you from translating WIP fic. What should i do?
+Don't worry, you could drop PM on https://www.fimfiction.net/user/595939/volkov, email volkovissocool@gmail.com, or create new issue https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new and, if possible, specify why you wan to take it down.
+
+Then i would make repo with that fanfic private, so no one will be able to download it here; i would hide (where possible, since some sites doesn't allow deleting stuff, when it was posted for some time) all posts, where i advertised this fic.
+
+Keep in mind, that if someone already downloaded translated fic, i can't to much with that.
+And some internet archives (or even google cache) like Wayback Machine might save copy of my repo with translated fic. Not all of them might remove stuff, if you ask them.
+# I need to know, how much you already translated for my fanfic! Where i could see it?
+Open list https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods, found there your fic and look at "Translation completion" col, there you would see percentage.
+I count it as it:
+1. I take total amount of words in fic
+2. Take amout of already translated words
+3. Divide translated words to total words in original (translated/total)
+4. Get number that represent progress
+5. Multiply it by 100
+6. get percentage
+So, on other words:
+Fic have 200 000 words, i translated 20 000.
+
+```
+20 00 / 200 000 = 0.1
+0.1 * 100 = 10
+```
+So with 20k translated words, i done 10% of fic with 200k words!
+Math!
+
+Or you could simply drop PM here https://www.fimfiction.net/user/595939/volkov, or email, or go to this disscussion: %%%%%. Don't use github issues for that.
+
 # Для україномовних
 Якщо ти хочеш, щоб я переклав якийсь фанфік, якого немає у списку, рідною мовою, то створи новий issue тут https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new, де треба вказати назву фанфіка, посилання на його fimfiction сторінку, і посилання на сторінку fimfic автора фанфіку, щоб я міг зв'язатися з ним і обговорити усі необхідні деталі. І якщо я отримаю усі необхідні дозволи на переклад, я додам його до списку, а твій нікнейм зможу вписати у лист благодійників (по бажанню, можна і анонімно).
 І, так, це репо лише для перекладів з сайту fimfiction https://www.fimfiction.net/, можливо в майбутньому я створю окреме репо для фанфіків з інших ресурсів.
