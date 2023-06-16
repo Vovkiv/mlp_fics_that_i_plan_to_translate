@@ -78,7 +78,7 @@ Fic have 200 000 words, i translated 20 000.
 20 00 / 200 000 = 0.1
 0.1 * 100 = 10
 ```
-So with 20k translated words, i done 10% of fic with 200k words!
+So with 20k translated words, i done ~10% of fic with 200k words!
 Math!
 
 Or you could simply drop PM here https://www.fimfiction.net/user/595939/volkov, or email, or go to this disscussion: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/discussions/1; Don't use github issues for that.
