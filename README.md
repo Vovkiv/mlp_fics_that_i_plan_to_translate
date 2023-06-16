@@ -26,4 +26,4 @@ And can i edit it, if necessary?
 `(By "Edit" i mean, that i can redraw title, maybe add hint that this is Ukrainian translation, use transleted title, etc.
 If you ALLOWED to use cover, but DIDN'T specified edit permission, i would default to "No")`
 
-3.
+3. [Maybe i will add something else here in future]
