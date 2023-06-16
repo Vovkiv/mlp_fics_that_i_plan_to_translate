@@ -16,7 +16,7 @@ https://www.fimfiction.net/user/595939/volkov
 #
 I'm small, known by no one, random internet user, who having fun translating someone else's work (like, games, software, books/fics) to Ukrainian language (and, sometimes, Russian language).
 
-Open  `mlp_fics_that_i_plan_to_translate.ods`, it is list (it is written in Ukrainian language).
+Open  `mlp_fics_that_i_plan_to_translate.ods`, it is list.
 
 If you, for some reasons, want me to translate your fic, write PM here:
 
