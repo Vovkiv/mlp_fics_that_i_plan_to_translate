@@ -81,7 +81,7 @@ Fic have 200 000 words, i translated 20 000.
 So with 20k translated words, i done 10% of fic with 200k words!
 Math!
 
-Or you could simply drop PM here https://www.fimfiction.net/user/595939/volkov, or email, or go to this disscussion: %%%%%. Don't use github issues for that.
+Or you could simply drop PM here https://www.fimfiction.net/user/595939/volkov, or email, or go to this disscussion: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/discussions/1; Don't use github issues for that.
 
 # Для україномовних
 Якщо ти хочеш, щоб я переклав якийсь фанфік, якого немає у списку, рідною мовою, то створи новий issue тут https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new, де треба вказати назву фанфіка, посилання на його fimfiction сторінку, і посилання на сторінку fimfic автора фанфіку, щоб я міг зв'язатися з ним і обговорити усі необхідні деталі. І якщо я отримаю усі необхідні дозволи на переклад, я додам його до списку, а твій нікнейм зможу вписати у лист благодійників (по бажанню, можна і анонімно).
