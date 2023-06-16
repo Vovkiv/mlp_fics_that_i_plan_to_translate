@@ -47,7 +47,7 @@ If you ALLOWED me to use your cover, but DIDN'T specify edit permission, i would
 0, zero. It will cost you nothing. I do this because i love translating things. But, because of 0 cost, don't expect me to translate your fic as soon as possible, or to finish translating it at all.
 
 # Для україномовних
-Якщо ти хочеш, щоб я переклав якийсь фанфік, якого немає у списку, рідною мовою, то створи новий issue тут https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new, де треба вказати назву фанфіка, посилання на його fimfic, і посилання на сторінку fimfic автора фанфіка, щоб я міг зв'язатися з ним і обговорити все це. І якщо я отримаю усі необхідні дозволи на переклад, я додам його до списку, а твій нікнейм зможу вписати у лист благодійників (по бажанню, можна і анонімно).
+Якщо ти хочеш, щоб я переклав якийсь фанфік, якого немає у списку, рідною мовою, то створи новий issue тут https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new, де треба вказати назву фанфіка, посилання на його fimfiction сторінку, і посилання на сторінку fimfic автора фанфіку, щоб я міг зв'язатися з ним і обговорити усі необхідні деталі. І якщо я отримаю усі необхідні дозволи на переклад, я додам його до списку, а твій нікнейм зможу вписати у лист благодійників (по бажанню, можна і анонімно).
 І, так, це репо лише для перекладів з сайту fimfiction https://www.fimfiction.net/, можливо в майбутньому я створю окреме репо для фанфіків з інших ресурсів.
 
 Якщо ж створити новий issue складно або немає акаунта на гітхаб і створювати ти не хочеш, можна і на імейл написати, сюди: volkovissocool@gmail.com
