@@ -15,7 +15,7 @@ If you, for some reasons, want me to translate your fic, write PM here:
 
 https://www.fimfiction.net/user/595939/volkov
 
-(or, instead, write email here: volkovissocool@gmail.com)
+(or, instead, write email here: volkovissocool@gmail.com; or, via new issue https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new)
 
 Keep in mind, that currently i make translations only for fimfiction fics. I won't translate fics from different platforms, but, you can still suggest non-fimfic stuff. Maybe i will create in future different repo, where all non-fimfic would be listed, so i would add your suggestion there instead.
 
