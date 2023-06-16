@@ -2,6 +2,15 @@ I'm small, known by no one, random internet user, who having fun translating som
 
 Open  `mlp_fics_that_i_plan_to_translate.ods`, it is list. (Created with LibreOffice Calc https://www.libreoffice.org/)
 
+If you found typo, have suggestion, please, open new issue here: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new
+
+I don't accept PR/MR, since it's useless to do with LibreOffice files. (No diffs, etc.) Instead, you could:
+1. Fork this repo (or download list file)
+2. Make changes
+3. Open new issue
+4. Point out what you changed and why
+5. If everything fine, i will apply this changes to file, and, if you wan to, mention you in commit and in list file, as contributor.
+
 If you, for some reasons, want me to translate your fic, write PM here:
 
 https://www.fimfiction.net/user/595939/volkov
