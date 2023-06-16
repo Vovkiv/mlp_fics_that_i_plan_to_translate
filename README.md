@@ -1,7 +1,7 @@
 I'm small, known by no one, random internet user, who having fun translating someone else's work (like, games, software, books/fics) to Ukrainian language (and, sometimes, Russian language).
 
 Open/Download `mlp_fics_that_i_plan_to_translate.ods` https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods, to read list.
-(Created with LibreOffice Calc https://www.libreoffice.org/, but you should be able to open it with Google docs, Microsoft Office software, maybe even with OnlyOffice)
+(Created with LibreOffice Calc https://www.libreoffice.org/, but you should be able to open it with Google docs, Microsoft Office software, maybe even with OnlyOffice https://www.onlyoffice.com)
 
 If you found typo, have suggestion, please, open new issue here: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new
 
