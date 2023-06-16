@@ -3,7 +3,7 @@ I'm small, known by no one, random internet user, who having fun translating som
 Open/Download `mlp_fics_that_i_plan_to_translate.ods` https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods, to read list.
 (Created with LibreOffice Calc https://www.libreoffice.org/, but you should be able to open it with Google docs, Microsoft Office software, maybe even with OnlyOffice https://www.onlyoffice.com)
 
-If you found typo, have suggestion, please, open new issue here: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new
+If you found typo, have suggestion, please, etc about this list (for example, add row with new data), open new issue here: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new
 
 I don't accept PR/MR, since it's useless to do with LibreOffice files. (No diffs, etc.) Instead, you could:
 1. Fork this repo (or download list file)
