@@ -62,6 +62,8 @@ Keep in mind, that if someone already downloaded translated fic, i can't to much
 And some internet archives (or even google cache) like Wayback Machine might save copy of my repo with translated fic. Not all of them might remove stuff, if you ask them.
 # I need to know, how much you already translated for my fanfic! Where i could see it?
 Open list https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods, found there your fic and look at "Translation completion" col, there you would see percentage.
+(I might add more info about that in future)
+
 I count it as it:
 1. I take total amount of words in fic
 2. Take amout of already translated words
