@@ -57,17 +57,20 @@ You still can contact me about it, where we could discuss what to do in that cas
 Then i'll leave rights to decide, what to do in this situation to myself.
 (Which means, I can contact you, to ask for your opinion on cover that i choosed from somewhere else, but final decision is up to me.).
 
-For example, https://github.com/Vovkiv/donuts-ukr, here, author don't owned rights on it, i decided myself, what to do with it.
+For example, https://github.com/Vovkiv/donuts-ukr, here, author don't owned rights and permission on cover, they took it from 3rd party site, so i decided myself, what to do with it.
 Source cover was good enough, so i took it and edited: added translated title, stylised and added link to source art directly into cover.
-And later asked about their opinion on it. They liked it (thank you!) so i'll used it.
+And later asked about their opinion on it. They liked it (thank you!) so i'll used it. Seems pretty easy, right?
 
 `MY FIC DON'T HAVE COVER AT ALL!`
 
 Then i'll leave rights to decide, what to do in this situation to myself.
 (Which means, I can contact you, to ask for your opinion on cover that i choosed, but final decision is up to me.).
 
+# I GOT CONFUSED BY ALL OF THIS TERMS!
+Don't worry, just ask me in PM/email what you didn't understand and i will try to explain better!
+
 # I think i'm alright with all of this. How much this will cost?
-0, zero. It will cost you nothing. I do this because i love translating things. But, because of 0 cost, don't expect me to translate your fic as soon as possible, or to finish translating it at all.
+0, zero. It will cost you nothing. I do this because i love translating stuff. But, because of 0 cost, don't expect me to translate your fic as soon as possible, or to finish translating it at all.
 
 # Reminder about ghosting or ignoring
 Keep in mind, that even when we agreed and i will start translating your fic, i might need some additional info from you after that. Maybe clarification about context, source file for cover image, etc.
