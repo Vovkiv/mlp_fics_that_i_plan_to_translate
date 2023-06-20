@@ -38,8 +38,8 @@ Yes, here optional details, that i would like to know:
 
 2. If the fanfic has a cover and you OWN RIGHTS/PERMISSIONS for it, can i use it? (If you WON'T specify about permission to use cover, i would default to "NO", so i won't use your cover at all.)
 
-In case, if answer "NO", then i'll leave rights to decide, what to do in this situation to myself.
-(Which means, I can contact you, to ask for your opinion on cover that i choosed, but final decision is up to me.).
+(In case, if answer "NO", then i'll leave rights to decide, what to do in this situation to myself.
+Which means, I can contact you, to ask for your opinion on cover that i choosed, but final decision is up to me.).
 
 3. And can i edit your cover, if you answered YES on question 2? (By "Edit" i mean, that i can redraw title, maybe add hint that this is Ukrainian translation, use translated title, etc.
 If you ALLOWED me to use your cover, but DIDN'T specify edit permission, i would default to "No".)
