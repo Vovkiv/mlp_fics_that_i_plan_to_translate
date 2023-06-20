@@ -1,7 +1,6 @@
 # Who are you?
 I'm small, known by no one, random internet user, who having fun translating someone else's work (like, games, software, books/fics) from English to Ukrainian language (and, sometimes, to Russian language).
-You can check my first published translation here, to se how i would they would look in future:
-# https://github.com/Vovkiv/donuts-ukr
+You can check my first published translation here: https://github.com/Vovkiv/donuts-ukr
 
 # And what this repo for?
 Here, in this repo (https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate), i would host neatly orginised list of fanfics from https://www.fimfiction.net/, that i translated to Ukrainian language. There will be additional info, where you could see how much i translated, where you could get translated materials, status, etc.
