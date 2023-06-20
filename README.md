@@ -92,6 +92,11 @@ Then i would make repo with that fanfic private, so no one will be able to downl
 Keep in mind, that if someone already downloaded translated fic, i can't to much with that.
 And some internet archives (or even google cache) like Wayback Machine might save copy of my repo with translated fic. Not all of them might remove stuff, if you ask them.
 
+# I'm artist for cover/arts that you used in your "translated fic" and i'm not happy about it!
+Sorry!
+You can drop PM me on email volkovissocool@gmail.com and we will discuss this!
+Or, if you from deviantart, you could contact me there: https://www.deviantart.com/gvovkiv
+
 # Для україномовних
 Якщо ти хочеш, щоб я переклав якийсь фанфік, якого немає у списку, рідною мовою, то створи новий issue тут https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new, де треба вказати назву фанфіка, посилання на його fimfiction сторінку, і посилання на сторінку fimfic автора фанфіку, щоб я міг зв'язатися з ним і обговорити усі необхідні деталі. І якщо я отримаю усі необхідні дозволи на переклад, я додам його до списку, а твій нікнейм зможу вписати у лист благодійників (по бажанню, можна і анонімно).
 І, так, це репо лише для перекладів з сайту fimfiction https://www.fimfiction.net/, можливо в майбутньому я створю окреме репо для фанфіків з інших ресурсів.
