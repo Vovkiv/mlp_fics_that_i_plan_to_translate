@@ -5,7 +5,9 @@ You can check my first published translation here: https://github.com/Vovkiv/don
 # And what this repo for?
 Here, in this repo (https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate), i would host neatly orginised list of fanfics from https://www.fimfiction.net/, that i translated to Ukrainian language. There will be additional info, where you could see how much i translated, where you could get translated materials, status, etc.
 # Where is that list and how do i open it?
-Open/Download `mlp_fics_that_i_plan_to_translate.ods` https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods, to read list.
+PDF Version: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.pdf (keep in mind, that pdf version can be outdated, compare to odt file. Also sometimes pdf export might be finicky in Libreoffice, so if something looks brokened, try odt version) 
+
+ods file: `mlp_fics_that_i_plan_to_translate.ods` https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods
 (Created with LibreOffice Calc https://www.libreoffice.org/, but you should be able to open it with Google docs, Microsoft Office software, maybe even with OnlyOffice https://www.onlyoffice.com)
 # What if i found typo and/or have suggestion to make list better?
 If you found typo, have suggestion, please, etc about this list (for example, add row with new data), open new issue here: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new
