@@ -21,7 +21,7 @@ I don't accept PR/MR, since it's useless to do with LibreOffice files. (No diffs
 # I'm fic writer and i want you to translate my fic to Ukrainian language. Can i suggest you my fic to translate?
 Sure thing! Drop your PM on my fimfiction profile: https://www.fimfiction.net/user/595939/volkov; or, write email here: volkovissocool@gmail.com; or create new issue https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new)
 
-Keep in mind, that currently i make translations only for fimfiction fics. I won't translate fics from different platforms, but, you can still suggest non-fimfiction stuff. Maybe i will create in future different repo, where all non-fimfiction would be listed, so i would add your suggestion there instead.
+Keep in mind, that currently i make translations only from fimfiction.net. I won't translate fics from different platforms, but, you can still suggest non-fimfiction stuff. Maybe i will create in future different repo, where all non-fimfiction would be listed, so i would add your suggestion there instead.
 # Alright, but i want to know what are you going to do with my fic! Maybe you want to resell it on black market!
 I won't do such horrible thing, don't worry.
 
