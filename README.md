@@ -1,5 +1,5 @@
 # Who are you?
-I'm small, known by no one, random internet user, who having fun translating someone else's work (like, games, software, books/fics) to Ukrainian language (and, sometimes, Russian language).
+I'm small, known by no one, random internet user, who having fun translating someone else's work (like, games, software, books/fics) from English to Ukrainian language (and, sometimes, to Russian language).
 You can check my first published translation here, to se how i would they would look in future:
 # https://github.com/Vovkiv/donuts-ukr
 
