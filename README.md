@@ -45,6 +45,7 @@ Which means, I can contact you, to ask for your opinion on new cover that i choo
 If you ALLOWED me to use your cover, but DIDN'T specify edit permission, i would default to "No".)
 
 `QUESTION 2 AND 3 APPLIED ONLY IF I DECIDE TO ACTUALLY USE YOUR COVER!`
+
 Which means, even if you allowed me to use your cover, but i refused to use it (maybe i don't like it), you cannot enforce me anything related to cover.
 You still can contact me about it, where we could discuss what to do in that case, but final decision is up to me.
 (Unlike in case, if you OWN RIGHTS/PERMISSIONS for cover and i decided to use it; only in that case you can force me to do anything with cover that you want to.)
