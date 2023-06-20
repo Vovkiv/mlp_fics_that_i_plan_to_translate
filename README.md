@@ -42,7 +42,10 @@ And can i edit your cover, if necessary?
 `(By "Edit" i mean, that i can redraw title, maybe add hint that this is Ukrainian translation, use translated title, etc.
 If you ALLOWED me to use your cover, but DIDN'T specify edit permission, i would default to "No".)`
 
-3. [Maybe i will add something else here in future]
+3. Do you want me to translate title of your fic?
+
+`(If YES, i will try to adapt/translate title, if possible. If NO, i will leave original title. If you DIDN'T specify it, I would default to "YES")`
+
 # I think i'm alright with all of this. How much this will cost?
 0, zero. It will cost you nothing. I do this because i love translating things. But, because of 0 cost, don't expect me to translate your fic as soon as possible, or to finish translating it at all.
 
