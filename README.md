@@ -39,7 +39,7 @@ Yes, here optional details, that i would like to know:
 2. If the fanfic has a cover and you OWN RIGHTS/PERMISSIONS for it, can i use it? (If you WON'T specify about permission to use cover, i would default to "NO", so i won't use your cover at all.)
 
 (In case, if answer "NO", then i'll leave rights to decide, what to do in this situation to myself.
-Which means, I can contact you, to ask for your opinion on cover that i choosed, but final decision is up to me.).
+Which means, I can contact you, to ask for your opinion on new cover that i choosed from somewhere else, but final decision is up to me then.).
 
 3. And can i edit your cover, if you answered YES on question 2? (By "Edit" i mean, that i can redraw title, maybe add hint that this is Ukrainian translation, use translated title, etc.
 If you ALLOWED me to use your cover, but DIDN'T specify edit permission, i would default to "No".)
@@ -51,10 +51,10 @@ You still can contact me about it, where we could discuss what to do in that cas
 
 `I DON'T OWN RIGHTS/PERMISSIONS FOR COVER!`
 
-(for example, you took it from internet without asking author or cover was not made specifically for you)!
+(for example, you took it from internet without asking cover author or cover was not made specifically for you)
 
 Then i'll leave rights to decide, what to do in this situation to myself.
-(Which means, I can contact you, to ask for your opinion on cover, but final decision is up to me.).
+(Which means, I can contact you, to ask for your opinion on cover that i choosed from somewhere else, but final decision is up to me.).
 
 For example, https://github.com/Vovkiv/donuts-ukr, here, author don't owned rights on it, i decided myself, what to do with it.
 Source cover was good enough, so i took it and edited: added translated title, stylised and added link to source art directly into cover.
@@ -64,7 +64,6 @@ And later asked about their opinion on it. They liked it (thank you!) so i'll us
 
 Then i'll leave rights to decide, what to do in this situation to myself.
 (Which means, I can contact you, to ask for your opinion on cover that i choosed, but final decision is up to me.).
-
 
 # I think i'm alright with all of this. How much this will cost?
 0, zero. It will cost you nothing. I do this because i love translating things. But, because of 0 cost, don't expect me to translate your fic as soon as possible, or to finish translating it at all.
