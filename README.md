@@ -3,7 +3,7 @@ I'm small, known by no one, random internet user, who having fun translating som
 You can check my first published translation here: https://github.com/Vovkiv/donuts-ukr
 
 # And what this repo for?
-Here, in this repo (https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate), i would host neatly orginised list of fanfics from https://www.fimfiction.net/, that i translated to Ukrainian language. There will be additional info, where you could see how much i translated, where you could get translated materials, status, etc.
+Here, in this repo (https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate), i would host neatly organised list of fanfics from https://www.fimfiction.net/, that i translated to Ukrainian language. There will be additional info, where you could see how much i translated, where you could get translated materials, status, etc.
 # Where is that list and how do i open it?
 PDF Version: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.pdf (keep in mind, that pdf version can be outdated, compare to odt file. Also sometimes pdf export might be finicky in Libreoffice, so if something looks brokened, try odt version) 
 
