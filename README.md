@@ -1,5 +1,8 @@
 # Who are you?
 I'm small, known by no one, random internet user, who having fun translating someone else's work (like, games, software, books/fics) to Ukrainian language (and, sometimes, Russian language).
+You can check my first published translation here, to se how i would they would look:
+# https://github.com/Vovkiv/donuts-ukr
+
 # And what this repo for?
 Here, in this repo (https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate), i would host neatly orginised list of fanfics from https://www.fimfiction.net/, that i translated to Ukrainian language. There will be additional info, where you could see how much i translated, where you could get translated materials, status, etc.
 # Where is that list and how do i open it?
@@ -31,20 +34,37 @@ Here list of conditions/obligations that I set for the translation:
 Yes, here optional details, that i would like to know:
 1. Do you want me to translate/adapt fic title?
 
-`(If YES, and title is possible to translate, i would do that. If NO, it would be same as original. If you didn't answer, i would default to "Yes".)`
+(If YES, and title is possible to translate, i would do that. If NO, it would be same as original. If you didn't answer, i would default to "Yes".)
 
-2. If the fanfic has a cover, can i use it?
+2. If the fanfic has a cover and you OWN RIGHTS/PERMISSIONS for it, can i use it? (If you WON'T specify about permission to use cover, i would default to "NO", so i won't use your cover at all.)
 
-`(If you WON'T specify about permission to use cover, i would default to "NO", so i won't use it at all. And if you DON'T want me to use your cover, can i at least replace it with different one? If you won't specify, i would default to "No".)`
+In case, if answer "NO", then i'll leave rights to decide, what to do in this situation to myself.
+(Which means, I can contact you, to ask for your opinion on cover that i choosed, but final decision is up to me.).
 
-And can i edit your cover, if necessary?
+3. And can i edit your cover, if you answered YES on question 2? (By "Edit" i mean, that i can redraw title, maybe add hint that this is Ukrainian translation, use translated title, etc.
+If you ALLOWED me to use your cover, but DIDN'T specify edit permission, i would default to "No".)
 
-`(By "Edit" i mean, that i can redraw title, maybe add hint that this is Ukrainian translation, use translated title, etc.
-If you ALLOWED me to use your cover, but DIDN'T specify edit permission, i would default to "No".)`
+`QUESTION 2 AND 3 APPLIED ONLY IF I DECIDE TO ACTUALLY USE YOUR COVER!`
+Which means, even if you allowed me to use your cover, but i refused to use it (maybe i don't like it), you cannot enforce me anything related to cover.
+You still can contact me about it, where we could discuss what to do in that case, but final decision is up to me.
+(Unlike in case, if you OWN RIGHTS/PERMISSIONS for cover and i decided to use it; only in that case you can force me to do anything with cover that you want to.)
 
-3. Do you want me to translate title of your fic?
+`I DON'T OWN RIGHTS/PERMISSIONS FOR COVER!`
 
-`(If YES, i will try to adapt/translate title, if possible. If NO, i will leave original title. If you DIDN'T specify it, I would default to "YES")`
+(for example, you took it from internet without asking author or cover was not made specifically for you)!
+
+Then i'll leave rights to decide, what to do in this situation to myself.
+(Which means, I can contact you, to ask for your opinion on cover, but final decision is up to me.).
+
+For example, https://github.com/Vovkiv/donuts-ukr, here, author don't owned rights on it, i decided myself, what to do with it.
+Source cover was good enough, so i took it and edited: added translated title, stylised and added link to source art directly into cover.
+And later asked about their opinion on it. They liked it (thank you!) so i'll used it.
+
+`MY FIC DON'T HAVE COVER AT ALL!`
+
+Then i'll leave rights to decide, what to do in this situation to myself.
+(Which means, I can contact you, to ask for your opinion on cover that i choosed, but final decision is up to me.).
+
 
 # I think i'm alright with all of this. How much this will cost?
 0, zero. It will cost you nothing. I do this because i love translating things. But, because of 0 cost, don't expect me to translate your fic as soon as possible, or to finish translating it at all.
