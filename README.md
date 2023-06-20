@@ -73,12 +73,17 @@ Don't worry, just ask me in PM/email what you didn't understand and i will try t
 0, zero. It will cost you nothing. I do this because i love translating stuff. But, because of 0 cost, don't expect me to translate your fic as soon as possible, or to finish translating it at all.
 
 # Reminder about ghosting or ignoring
-Keep in mind, that even when we agreed and i will start translating your fic, i might need some additional info from you after that. Maybe clarification about context, source file for cover image, etc.
-So when you would write PM on fimfiction, or email, or issue, i would use it to contact with you.
+Keep in mind, that even when we agreed, i still might need some additional info from you after that. Maybe clarification about context, source file for cover image, etc.
+So when you would write PM on fimfiction, or email, or issue, i would use it to contact back with you.
 
-So, please, don't ghost me or ignore PMs. It's better to write back something like "Sorry, can't answer" or "No" then ignoring.
+So, please, don't ghost me or ignore PMs on purpose. It's better to write back something like "Sorry, can't answer" or "No" then ignoring.
 If you want me to stop translating your fic or you want to take it down, instead of ignoring, please, write back on email, github issue or fimfiction.
 See next chapter.
+
+`I BECOMED GHOST! BOO!`
+
+In case, if you started to ignore me on purpose, nothing really changes (except, i now would think that you bad person, maybe). I'm not gonna write post about how bad you are, or delete all your translated fics. I would continue working, based on what permissions you gaved me before ghosting. You still can contact me about anything related to your fic (take down it, cover related stuff, etc) at any time (as you never ghosted me), but don't expect me to be happy working with you again in future (for example, translate another your fic).
+
 # You make really good translation, people like it! But, i decided that i want to take it down or stop you from translating WIP fic. What should i do?
 Don't worry, you could drop PM on https://www.fimfiction.net/user/595939/volkov, email volkovissocool@gmail.com, or create new issue https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new and, if possible, specify why you wan to take it down.
 
