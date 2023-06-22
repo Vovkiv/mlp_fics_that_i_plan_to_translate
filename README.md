@@ -1,105 +1,85 @@
 # Who are you?
-I'm small, known by no one, random internet user, who having fun translating someone else's work (like, games, software, books/fics) from English to Ukrainian language (and, sometimes, to Russian language).
-You can check my first published translation here: https://github.com/Vovkiv/donuts-ukr
+I'm small, random internet user, who having fun translating someone else's work (like, games, software, books/fics) from English to Ukrainian language (and, sometimes, to Russian language).
 
 # And what this repo for?
-Here, in this repo (https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate), i would host neatly organised list of fanfics from https://www.fimfiction.net/, that i translated to Ukrainian language. There will be additional info, where you could see how much i translated, where you could get translated fics, their statuses, etc.
+Here, in this repo i would host neatly organised list of fanfics from https://www.fimfiction.net/, that i translated to Ukrainian language or planning to do so.
+
+There will be all relevant info, included translation progress, links to all translated fanfics, permissions, etc.
+
 # Where is that list and how do i open it?
-PDF Version: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.pdf (keep in mind, that pdf version can be outdated, compare to ods file. Also sometimes pdf export might be finicky in Libreoffice, so if something looks brokened, try ods version) 
+**PDF Version:**
 
-ods file: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods
-(Created with LibreOffice Calc https://www.libreoffice.org/, but you should be able to open it with Google docs, Microsoft Office software, maybe even with OnlyOffice https://www.onlyoffice.com)
-# What if i found typo and/or have suggestion to make list better?
-If you found typo, have suggestion, please, etc about this list (for example, add row with new data), open new issue here: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new
-# But what if i want to fix something and/or implement suggestion myself? Can i make Pull/Merge Request?
-I don't accept PR/MR, since it's useless to do with LibreOffice files. (No diffs, etc.) Instead, you could:
-1. Fork this repo (or download list file https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods)
-2. Make changes
-3. Open new issue (or via email, volkovissocool@gmail.com)
-4. Point out what you changed and why, provide link to your fork or list file.
-5. If everything fine, i will apply this changes to list, and, if you want to, i will mention you in commit and in list file, as contributor. Or don't, if you don't feel like it.
-# I'm fic writer and i want you to translate my fic to Ukrainian language. Can i suggest you my fic to translate?
-Sure thing! Drop your PM on my fimfiction profile: https://www.fimfiction.net/user/595939/volkov; or, write email here: volkovissocool@gmail.com; or create new issue https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new)
+https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.pdf
 
-Keep in mind, that currently i make translations only from fimfiction.net. I won't translate fics from different platforms, but, you can still suggest non-fimfiction stuff. Maybe i will create in future different repo, where all non-fimfiction would be listed, so i would add your suggestion there instead.
-# Alright, but i want to know what are you going to do with my fic! Maybe you want to resell it on black market!
-I won't do such horrible thing, don't worry.
+_Keep in mind, that pdf version can be outdated sometimes (compared to ods file), sometimes pdf export might be finicky in LibreOffice, so if something looks brokened, try ods version._
 
-Here list of conditions/obligations that I set for the translation:
-1. The translation will not be monetized in any way. (That is, I won't include in the translation file a link where you can donate money to me; no "pay here to get the full version of the translation", etc.)
-2. The translation will not be used to promote my or anyone else's projects/work. (That means, that if I create some cool project and i will want to promote it, I won't place link to it in translated fic, or promote in different way.).
-3. I will advertise the translation itself somewhere on third-party resources. (That means, that I will advertise the translated fanfic on my YouTube page, Discord, etc.).
-4. I'll add all the necessary links: link to your fimfiction; link to your fimfiction profile; link to the cover/arts artist (if there any).
+**ODS version:**
 
-# Seems fair. Is there anything else that you need to know before starting translating my cool fic?
-Yes, here optional details, that i would like to know:
-1. Do you want me to translate/adapt fic title?
+https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods
 
-(If YES, and title is possible to translate, i would do that. If NO, it would be same as original. If you didn't answer, i would default to "Yes".)
+_Created using LibreOffice Calc https://www.libreoffice.org/, but you should be able to open it with Google docs, Microsoft Office software, maybe even with OnlyOffice https://www.onlyoffice.com_
 
-2. If the fanfic has a cover and you OWN RIGHTS/PERMISSIONS for it, can i use it? (If you WON'T specify about permission to use cover, i would default to "NO", so i won't use your cover at all.)
+# I want you to translate my fanfic to Ukrainian language. What should i know and do?
+(Here my first translated fic. Check it, to see how everything will look once i finish translating: https://github.com/Vovkiv/donuts-ukr)
 
-(In case, if answer "NO", then i'll leave rights to decide, what to do in this situation to myself.
-Which means, I can contact you, to ask for your opinion on new cover that i choosed from somewhere else, but final decision is up to me then.).
+(_IMPORTANT:_ Currently, this list only for fics hosted on fimfiction. You can't suggest me fics from other sites/platforms.)
 
-3. And can i edit your cover, if you answered YES on question 2? (By "Edit" i mean, that i can redraw title, maybe add hint that this is Ukrainian translation, use translated title, etc.
-If you ALLOWED me to use your cover, but DIDN'T specify edit permission, i would default to "No".)
+Terms and conditions, that _I_ should follow:
+1. The translation will not be monetized in any way. _(I won't include in the translated fic link(s) where you can donate money to me; no "pay here to get the full version of the translation", etc.)_
+2. The translation will not be used to promote my or anyone else's projects/work. _(That means, that if I create some cool project and i will want to promote it, I won't place link to it in translated fic, or promote in different way. BUT, i would be ALLOWED to include link to this list in translation repo and/or translation source.)_
+3. I will be allowed to advertise the translation itself somewhere on third-party resources/services. _(That means, that I will advertise the translated fanfic on my YouTube page, Discord, etc.)_
+4. I will be obligeted to add the necessary links: link to your fimfiction; link to your fimfiction profile; link to the cover/arts artist (if there any), etc. THis apply to repo and for source of  translation.
 
-`QUESTION 2 AND 3 APPLIED ONLY IF I DECIDE TO ACTUALLY USE YOUR COVER!`
+Terms and condition, that _YOU_ should follow:
+1. Don't be ghost. _(Meaning, that don't ignore my PM's that i send to you for something, related to your fanfic.)_
+2. Don't abuse you author's rights on me. _(While you can freely request take down at any time for my translation of your fanfic, please, don't do it, unless you have REALLY GOOD reasons for it.)_
 
-Which means, even if you allowed me to use your cover, but i refused to use it (maybe i don't like it), you cannot enforce me anything related to cover.
-You still can contact me about it, where we could discuss what to do in that case, but final decision is up to me.
-(Unlike in case, if you OWN RIGHTS/PERMISSIONS for cover and i decided to use it; only in that case you can force me to do anything with cover that you want to.)
+And additional info (answers with "/" is what i would pick, in case if you won't answer on question.):
+1. Can i translate/adapt title of your fanfic?
+   
+   /Yes: I would be able to freely translate/adapt title, or just use original title, as i wish.
+   
+   No: Title in my translation will be in English.
 
-`I DON'T OWN RIGHTS/PERMISSIONS FOR COVER!`
+   _Note:_ I strongly suggest you to allow me translate title, it will make my job for adapting jokes/context related to title much easier.
+2. Do your fic have cover image?
 
-(for example, you took it from internet without asking cover author or cover was not made specifically for you)
+    Yes:
 
-Then i'll leave rights to decide, what to do in this situation to myself.
-(Which means, I can contact you, to ask for your opinion on cover that i choosed from somewhere else, but final decision is up to me.).
+    No:
+   
+3. (If you answered "Yes" on question 2) Do you own rights on cover image?
 
-For example, https://github.com/Vovkiv/donuts-ukr, here, author don't owned rights and permission on cover, they took it from 3rd party site, so i decided myself, what to do with it.
-Source cover was good enough, so i took it and edited: added translated title, stylised and added link to source art directly into cover.
-And later asked about their opinion on it. They liked it (thank you!) so i'll used it. Seems pretty easy, right?
+   Yes:
 
-`MY FIC DON'T HAVE COVER AT ALL!`
+   No:
 
-Then i'll leave rights to decide, what to do in this situation to myself.
-(Which means, I can contact you, to ask for your opinion on cover that i choosed, but final decision is up to me.).
+   _Note:_ If you draw cover yourself, if your friend draw cover and give rights on it to you, you commissioned cover from some artist - it's counts as You **OWN** Rights on cover. If you just took image from somewhere else, that was NOT specififcally made for your fanfic, then it counts as You **DON'T OWN** rights on cover. For example, if you opened someone's deviantart and copied link to art and inserted it as cover (don't matter, if artist give you permission on that or don't).
 
-# I GOT CONFUSED BY ALL OF THIS TERMS!
-Don't worry, just ask me in PM/email what you didn't understand and i will try to explain better!
+4. (If you answered "Yes" on question 3) Can i use your cover in my translation?
 
-# I think i'm alright with all of this. How much this will cost?
-0, zero. It will cost you nothing. I do this because i love translating stuff. But, because of 0 cost, don't expect me to translate your fic as soon as possible, or to finish translating it at all.
+   /Yes: I also will be able to edit cover image. For example, add translated title to cover, etc.
 
-# Reminder about ghosting or ignoring
-Keep in mind, that even when we agreed, i still might need some additional info from you after that. Maybe clarification about context, source file for cover image, etc.
-So when you would write PM on fimfiction, or email, or issue, i would use it to contact back with you.
+   No:
 
-So, please, don't ghost me or ignore PMs on purpose. It's better to write back something like "Sorry, can't answer" or "No" then ignoring.
-If you want me to stop translating your fic or you want to take it down, instead of ignoring, please, write back on email, github issue or fimfiction.
-See next chapter.
+   _Note:_ Even if you allowed me to use your owned cover, i still leave rights to use something else for cover, if i choose to.
 
-`I BECOMED GHOST! BOO!`
+How much it would cost?
 
-In case, if you started to ignore me on purpose, nothing really changes (except, i now would think that you bad person, maybe). I'm not gonna write post about how bad you are, or delete all your translated fics. I would continue working, based on what permissions you gaved me before ghosting. You still can contact me about anything related to your fic (take down it, cover related stuff, etc) at any time (as you never ghosted me), but don't expect me to be happy working with you again in future (for example, translate another your fic).
+    0, zero, nothing.
 
-# You make really good translation, people like it! But, i decided that i want to take it down or stop you from translating WIP fic. What should i do?
-Don't worry, you could drop PM on https://www.fimfiction.net/user/595939/volkov, email volkovissocool@gmail.com, or create new issue https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new and, if possible, specify why you wan to take it down.
+At the moment of writing this, i don't take money or anything for translating your fanfic. You still can try donate to me or say "thank you!" in some other way, but, it's all up to you. 
 
-Then i would make repo with that fanfic private, so no one will be able to download it here; i would hide (where possible, since some sites doesn't allow deleting stuff, when it was posted for some time) all posts, where i advertised this fic.
+If you okay with all of this, then refer to Contacts section https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/edit/main/README.md#contacts and send me PM. (For this, i prefer fimfiction or email, but use whatever you want.)
 
-Keep in mind, that if someone already downloaded translated fic, i can't to much with that.
-And some internet archives (or even google cache) like Wayback Machine might save copy of my repo with translated fic. Not all of them might remove stuff, if you ask them.
+# I'm artist and i want to take down art that you used in your translation!
+Go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/edit/main/README.md#contacts) section and write PM to me.
 
-# I'm artist for cover/arts that you used in your "translated fic" and i'm not happy about it!
-Sorry!
-You can drop PM me on email volkovissocool@gmail.com and we will discuss this!
-Or, if you from deviantart, you could contact me there: https://www.deviantart.com/gvovkiv
+# I'm fanfic author and i want to take down translation!
+Go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/edit/main/README.md#contacts) section and write PM to me. In case of take down, i would remove link in list file and hide repo. 
 
-# Для україномовних
-Якщо ти хочеш, щоб я переклав якийсь фанфік, якого немає у списку, рідною мовою, то створи новий issue тут https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/issues/new, де треба вказати назву фанфіка, посилання на його fimfiction сторінку, і посилання на сторінку fimfic автора фанфіку, щоб я міг зв'язатися з ним і обговорити усі необхідні деталі. І якщо я отримаю усі необхідні дозволи на переклад, я додам його до списку, а твій нікнейм зможу вписати у лист благодійників (по бажанню, можна і анонімно).
-І, так, це репо лише для перекладів з сайту fimfiction https://www.fimfiction.net/, можливо в майбутньому я створю окреме репо для фанфіків з інших ресурсів.
-
-Якщо ж створити новий issue складно або немає акаунта на гітхаб і створювати ти не хочеш, можна і на імейл написати, сюди: volkovissocool@gmail.com фбо на fimfiction https://www.fimfiction.net/user/595939/volkov
+# Contacts:
+* Fimfiction: https://www.fimfiction.net/user/595939/volkov
+* Deviantart: https://www.deviantart.com/gvovkiv
+* Email: volkovissocool@gmail.com
+* Matrix: https://matrix.to/#/@vovkiv:matrix.org
