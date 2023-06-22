@@ -28,7 +28,7 @@ Terms and conditions, that _I_ should follow:
 1. The translation will not be monetized in any way. _(I won't include in the translated fic link(s) where you can donate money to me; no "pay here to get the full version of the translation", etc.)_
 2. The translation will not be used to promote my or anyone else's projects/work. _(That means, that if I create some cool project and i will want to promote it, I won't place link to it in translated fic, or promote in different way. BUT, i would be ALLOWED to include link to this list in translation repo and/or translation source.)_
 3. I will be allowed to advertise the translation itself somewhere on third-party resources/services. _(That means, that I will advertise the translated fanfic on my YouTube page, Discord, etc.)_
-4. I will be obligeted to add the necessary links: link to your fimfiction; link to your fimfiction profile; link to the cover/arts artist (if there any), etc. THis apply to repo and for source of  translation.
+4. I will be obligated to add the necessary links: link to your fimfiction page; link to the cover/arts artist (if there any), etc. This apply to repo and for source of  translation.
 
 Terms and condition, that _YOU_ should follow:
 1. Don't be ghost. _(Meaning, that don't ignore my PM's that i send to you for something, related to your fanfic.)_
