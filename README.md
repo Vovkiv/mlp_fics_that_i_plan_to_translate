@@ -7,23 +7,32 @@ Here, in this repo i would host neatly organised list of fanfics from https://ww
 There will be all relevant info, included translation progress, links to all translated fanfics, permissions, etc.
 
 # Where is that list and how do i open it?
-**PNG Version:**
-
-https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.png?raw=true
-
-_Keep in mind, that PNG version can be outdated sometimes (compared to ods file), sometimes PNG export might be finicky in LibreOffice, so if something looks brokened, try ODS version._
-![current state png](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.png?raw=true)
-
-**PDF Version:**
-
-https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.pdf
-_Keep in mind, that PDF version can be outdated sometimes (compared to ods file), sometimes PDF export might be finicky in LibreOffice, so if something looks brokened, ODS ods version._
 
 **ODS version:**
 
-https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods
+https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods;
+You should be able to open it with:
+* LibreOffice Calc https://www.libreoffice.org/
+* Microsoft Office
+* OnlyOffice https://www.onlyoffice.com
 
-_Created using LibreOffice Calc https://www.libreoffice.org/, but you should be able to open it with Google docs, Microsoft Office software, maybe even with OnlyOffice https://www.onlyoffice.com_
+Also, keep in mind, that anything other then ODS version might be:
+* outdated
+* something might be broken at export due to LibreOffice issues
+
+**PNG version:**
+
+https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.png?raw=true
+![current state png](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.png?raw=true)
+
+**WEBP version:**
+
+https://raw.githubusercontent.com/Vovkiv/mlp_fics_that_i_plan_to_translate/main/mlp_fics_that_i_plan_to_translate.webp
+![webp](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/raw/main/mlp_fics_that_i_plan_to_translate.webp)
+
+**PDF version:**
+
+https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.pdf
 
 # I want you to translate my fanfic to Ukrainian language. What should i know and do?
 (Here my first translated fic. Check it, to see how everything will look once i finish translating: https://github.com/Vovkiv/donuts-ukr)
