@@ -8,7 +8,7 @@ There will be all relevant info, included translation progress, links to all tra
 
 # Where is that list and how do i open it?
 
-**ODS version:**
+**ODS version (source):**
 
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods;
 You should be able to open it with:
@@ -23,12 +23,17 @@ Also, keep in mind, that anything other then ODS version might be:
 **PNG version:**
 
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.png?raw=true
-![current state png](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.png?raw=true)
+![png](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.png?raw=true)
 
 **WEBP version:**
 
 https://raw.githubusercontent.com/Vovkiv/mlp_fics_that_i_plan_to_translate/main/mlp_fics_that_i_plan_to_translate.webp
 ![webp](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/raw/main/mlp_fics_that_i_plan_to_translate.webp)
+
+**SVG version:**
+
+https://raw.githubusercontent.com/Vovkiv/mlp_fics_that_i_plan_to_translate/a234a07d891cfdb44e339d90cda75feb4531e788/mlp_fics_that_i_plan_to_translate.svg
+![svg](https://raw.githubusercontent.com/Vovkiv/mlp_fics_that_i_plan_to_translate/a234a07d891cfdb44e339d90cda75feb4531e788/mlp_fics_that_i_plan_to_translate.svg)
 
 **PDF version:**
 
@@ -81,7 +86,7 @@ And additional info (answers with "/" is what i would pick, in case if you won't
 
 How much it would cost?
 
-    0, zero, nothing.
+0, zero, nothing.
 
 At the moment of writing this, i don't take money or anything for translating your fanfic. You still can try donate to me or say "thank you!" in some other way, but, it's all up to you. 
 
