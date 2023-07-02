@@ -7,11 +7,17 @@ Here, in this repo i would host neatly organised list of fanfics from https://ww
 There will be all relevant info, included translation progress, links to all translated fanfics, permissions, etc.
 
 # Where is that list and how do i open it?
+**PNG Version:**
+
+https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.png?raw=true
+
+_Keep in mind, that PNG version can be outdated sometimes (compared to ods file), sometimes PNG export might be finicky in LibreOffice, so if something looks brokened, try ODS version._
+![current state png](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.png?raw=true)
+
 **PDF Version:**
 
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.pdf
-
-_Keep in mind, that pdf version can be outdated sometimes (compared to ods file), sometimes pdf export might be finicky in LibreOffice, so if something looks brokened, try ods version._
+_Keep in mind, that PDF version can be outdated sometimes (compared to ods file), sometimes PDF export might be finicky in LibreOffice, so if something looks brokened, ODS ods version._
 
 **ODS version:**
 
