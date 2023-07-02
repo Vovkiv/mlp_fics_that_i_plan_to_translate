@@ -92,6 +92,14 @@ At the moment of writing this, i don't take money or anything for translating yo
 
 If you okay with all of this, then go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and send me PM. (For this, i prefer fimfiction or email, but use whatever you want.)
 
+# How long it will take to translate my fanfic?
+Since I'm translating fics in my free time, it depends on:
+* The more words fic have - the more time it will take.
+* If I'm not in mood to translate then I wouldn't translate (duh!).
+* I can't guarantee, that I would finish translation in first place! Even If I got permission to do so, I can simply can get bored of it, change my priority to different fic, etc.
+
+In any case, feel free to ask, how translating is going on, if you think progress stuck on same place!
+
 # I'm artist and i want to take down art that you used in your translation!
 Go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and send me PM.
 
