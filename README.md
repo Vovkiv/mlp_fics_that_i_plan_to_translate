@@ -90,13 +90,13 @@ How much it would cost?
 
 At the moment of writing this, i don't take money or anything for translating your fanfic. You still can try donate to me or say "thank you!" in some other way, but, it's all up to you. 
 
-If you okay with all of this, then refer to Contacts section https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/edit/main/README.md#contacts and send me PM. (For this, i prefer fimfiction or email, but use whatever you want.)
+If you okay with all of this, then go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and send me PM. (For this, i prefer fimfiction or email, but use whatever you want.)
 
 # I'm artist and i want to take down art that you used in your translation!
-Go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and write PM to me.
+Go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and send me PM.
 
 # I'm fanfic author and i want to take down translation!
-Go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and write PM to me. In case of take down, i would remove link in list file and hide repo. 
+Go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and send me PM. In case of take down, i would remove link from list file and hide repo. 
 
 # Contacts:
 * Fimfiction: https://www.fimfiction.net/user/595939/volkov
