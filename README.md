@@ -13,7 +13,7 @@ There will be all relevant info, included translation progress, links to all tra
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods;
 You should be able to open it with:
 * LibreOffice Calc https://www.libreoffice.org/
-* Microsoft Office
+* Microsoft Office https://www.microsoft.com/microsoft-365/
 * OnlyOffice https://www.onlyoffice.com
 
 Also, keep in mind, that anything other then ODS version might be:
