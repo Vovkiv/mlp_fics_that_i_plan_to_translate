@@ -32,8 +32,7 @@ https://raw.githubusercontent.com/Vovkiv/mlp_fics_that_i_plan_to_translate/main/
 
 **SVG version:**
 
-https://raw.githubusercontent.com/Vovkiv/mlp_fics_that_i_plan_to_translate/a234a07d891cfdb44e339d90cda75feb4531e788/mlp_fics_that_i_plan_to_translate.svg
-![svg](https://raw.githubusercontent.com/Vovkiv/mlp_fics_that_i_plan_to_translate/a234a07d891cfdb44e339d90cda75feb4531e788/mlp_fics_that_i_plan_to_translate.svg)
+https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.svg
 
 **PDF version:**
 
