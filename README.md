@@ -20,16 +20,6 @@ Also, keep in mind, that anything other then ODS version might be:
 * outdated
 * something might be broken at export due to LibreOffice issues
 
-**PNG version:**
-
-https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.png?raw=true
-![png](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.png?raw=true)
-
-**WEBP version:**
-
-https://raw.githubusercontent.com/Vovkiv/mlp_fics_that_i_plan_to_translate/main/mlp_fics_that_i_plan_to_translate.webp
-![webp](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/raw/main/mlp_fics_that_i_plan_to_translate.webp)
-
 **SVG version:**
 
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.svg
