@@ -22,8 +22,8 @@ Also, keep in mind, that anything other then ODS version might be:
 
 **SVG version:**
 
-https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.svg
-![a](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.svg)
+https://raw.githubusercontent.com/Vovkiv/mlp_fics_that_i_plan_to_translate/main/mlp_fics_that_i_plan_to_translate.svg
+![SVG](https://raw.githubusercontent.com/Vovkiv/mlp_fics_that_i_plan_to_translate/main/mlp_fics_that_i_plan_to_translate.svg)
 
 
 **PDF version:**
