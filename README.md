@@ -44,13 +44,17 @@ _IMPORTANT:_ Currently, this list only for fics hosted on fimfiction. You can't 
 Terms and conditions, that _I_ should follow: | Правила та умови, які _Я_ повинен виконувати:
 
 1. The translation will not be monetized in any way. _(I won't include in the translated fic link(s) where you can donate money to me; no "pay here to get the full version of the translation", etc.)_ | Переклад не буде монетизовуватися. Наприклад, я не стану додавати в перекладену версію посилання, де ви зможете мені задонатити; жодного "заплатіть ось тут щоб отримати повну версію"; тощо.
-2. The translation will not be used to promote my or anyone else's projects/work. _(That means, that if I create some cool project and i will want to promote it, I won't place link to it in translated fic, or promote in different way. BUT, i would be ALLOWED to include link to this list in translation repo and/or translation source.)_ | 
-3. I will be allowed to advertise the translation itself somewhere on third-party resources/services. _(That means, that I will advertise the translated fanfic on my YouTube page, Discord, etc.)_ | 
-4. I will be obligated to add the necessary links: link to your fimfiction page; link to the cover/arts artist (if there any), etc. This apply to repo and for source of  translation. | 
+   
+3. The translation will not be used to promote my or anyone else's projects/work. _(That means, that if I create some cool project and i will want to promote it, I won't place link to it in translated fic, or promote in different way. BUT, i would be ALLOWED to include link to this list in translation repo and/or translation source.)_ | Перекладена версія фанфіку не буде використовуватися для рекламування моїх або чиїхось ще робіт/проектів. Це означає, що якщо я створю якийсь крутий проект і мені треба буде його прорекламувати, я не стану робити цього через переклади. Наприклад, я не вставлю рекламне посилання на цей проект у файл перекладеного фанфіку або у опис. АЛЕ я зможу вставити у перекладену версію посилання на цей репозиторій, зі списком усіх моїх перекладів, щоб читач знав, що це не єдиний фанфік, що я переклав і у мене є набагато більше їх.
+   
+4. I will be allowed to advertise the translation itself somewhere on third-party resources/services. _(That means, that I will advertise the translated fanfic on my YouTube page, Discord, etc.)_ | Я зможе рекламувати сам переклад на інших ресурсах, наприклад, на серверах Діскорда або Ютуба, тощо.
+   
+6. I will be obligated to add the necessary links: link to your fimfiction page; link to the cover/arts artist (if there any), etc. This apply to repo and for source of  translation. | Я буду зобов'язаний додати усі необхідні посилання в переклад, такі як: посилання на сторінку fimfiction фанфіку, посилання на художника або зображення для обкладинки (якщо така є), тощо. Те ж саме я буду додавати у репозиторії перекладів.
 
 Terms and condition, that _YOU_ should follow: | Правила та умови, які _ВИ_ повинні дотримуватися:
 1. Don't be ghost. _(Meaning, that don't ignore my PM's that i send to you for something, related to your fanfic that I'm translating.)_ | Не кидати мене у ігнорування. Це значить, що не ігноруйте мої повідомлення вам пов'язані з вашим фанфіком.
-2. Don't abuse you author's rights on me. _(While you can freely request take down at any time for my translation of your fanfic, please, don't do it, unless you have REALLY GOOD reasons for it.)_ | Хоч ви, як автор фанфіка який я переклав, маєте право запросити у мене, щоб я його прибрав з вільного доступу, будь ласка, не робіть так, якщо у вас немає на це ХОРОШИХ причин.
+   
+3. Don't abuse you author's rights on me. _(While you can freely request take down at any time for my translation of your fanfic, please, don't do it, unless you have REALLY GOOD reasons for it.)_ | Хоч ви, як автор фанфіка який я переклав, маєте право запросити у мене, щоб я його прибрав з вільного доступу, будь ласка, не робіть так, якщо у вас немає на це ХОРОШИХ причин.
 
 And additional info (answers with "/" is what i would pick, in case if you won't answer on question.): | Додаткові питання (Я буду вважати відповіді позначені з "/" відповідями за замовченням, якщо ви не дасте власну відповідь на ці питання. 
 1. Can i translate/adapt title of your fanfic? | Чи можу я перекласти/адаптувати назву вашого фанфіку?
@@ -60,20 +64,22 @@ And additional info (answers with "/" is what i would pick, in case if you won't
    No: Title in my translation will stay the same. | Ні: назва фанфіку залишиться як у оригіналі.
 
    _Note:_ I strongly suggest you to allow me translate title, it will make my job for adapting jokes/context related to title much easier. | Я рекомендую вам дозволити мені перекладати назву фанфіку, це зробить мою роботу з перекладу значно легше.
-2. Do your fic have cover image? | У вашого фанфіку є обкладинка?
+
+3. Do your fic have cover image? | У вашого фанфіку є обкладинка?
 
     Yes: | Так
 
     No: | Ні
    
-3. (If you answered "Yes" on question 2) Do you own rights on cover image? | (Якщо ви відповіли "Так" на питання #2) Чи ви володієте правами на обкладинку?
+4. (If you answered "Yes" on question 2) Do you own rights on cover image? | (Якщо ви відповіли "Так" на питання #2) Чи ви володієте правами на обкладинку?
 
    Yes: | Так
 
    No: | Ні
 
-   _Note:_ If you draw cover yourself, if your friend draw cover and give rights on it to you, you commissioned cover from some artist - it's counts as You **OWN** Rights on cover. If you just took image from somewhere else, that was NOT specififcally made for your fanfic, then it counts as You **DON'T OWN** rights on cover. For example, if you opened someone's deviantart and copied link to art and inserted it as cover (don't matter, if artist give you permission on that or don't). | Якщо ви намалювали обкладинку самостійно, або друг намалював вам її і віддав права на неї, або ви замовили аблкадинку у художника - тоді це значить, що ви **_ВОЛОДІЄТЕ_** правами на обкладинку. Якщо ж ви узяли звідкись зображення, яке не було спеціально створено для вашого фанфіку, тоді це значить, що ви **_НЕ ВОЛОДІЄТЕ_** правами на зображення. Наприклад, якщо ви завітаєте на девіантар якогось художника і використаєте його зображення у якості обкладинки (не важливо, якщо вам цей художник дав на це право). 
-4. (If you answered "Yes" on question 3) Can i use your cover in my translation? | (Якщо ви відповіли "Так" на питання #3) Чи можу я використати вашу обкладинку фанфіку у своєму перекладі?
+   _Note:_ If you draw cover yourself, if your friend draw cover and give rights on it to you, you commissioned cover from some artist - it's counts as You **OWN** Rights on cover. If you just took image from somewhere else, that was NOT specififcally made for your fanfic, then it counts as You **DON'T OWN** rights on cover. For example, if you opened someone's deviantart and copied link to art and inserted it as cover (don't matter, if artist give you permission on that or don't). | Якщо ви намалювали обкладинку самостійно, або друг намалював вам її і віддав права на неї, або ви замовили аблкадинку у художника - тоді це значить, що ви **_ВОЛОДІЄТЕ_** правами на обкладинку. Якщо ж ви узяли звідкись зображення, яке не було спеціально створено для вашого фанфіку, тоді це значить, що ви **_НЕ ВОЛОДІЄТЕ_** правами на зображення. Наприклад, якщо ви завітаєте на девіантар якогось художника і використаєте його зображення у якості обкладинки (не важливо, якщо вам цей художник дав на це право).
+
+6. (If you answered "Yes" on question 3) Can i use your cover in my translation? | (Якщо ви відповіли "Так" на питання #3) Чи можу я використати вашу обкладинку фанфіку у своєму перекладі?
 
    /Yes: I also will be able to edit cover image. For example, add translated title to cover, etc. | Так: Я також отримаю право на редагування обкладинки. Наприклад, щоб додати на неї перекладену/адаптовану назву фанфіку, тощо.
 
@@ -87,7 +93,7 @@ And additional info (answers with "/" is what i would pick, in case if you won't
 
 At the moment of writing this, i don't take money or anything for translating your fanfic. You still can try donate to me or say "thank you!" in some other way, but, it's all up to you. | У момент написання цього, я не беру гроші або щось ще за переклад. Якщо вам так сильно кортить, то ви можете мені задонатити або подякувати ще якось, але це не обов'язково. 
 
-If you okay with all of this, then go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and send me PM. (For this, i prefer fimfiction or email, but use whatever you want.)
+If you okay with all of this, then go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and send me PM. (For this, i prefer fimfiction or email, but use whatever you want.) | Якщо ви погоджуєтесь на усе це, тоді перейдіть у [Контакти](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) і надішліть мені повідомлення. Краще за все, надсилати їх прямо у особистих повідомлення на fimfiction або через імейл, але можна і через інші методи.
 
 # How long it will take to translate my fanfic?
 _[Скільки часу займе переклад?]_
