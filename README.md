@@ -1,40 +1,30 @@
 # Who are you?
 _[Хто ти такий?]_
 
-I'm small, random internet user, who having fun translating someone else's work (like, games, software, books/fics) from English to Ukrainian language (and, sometimes, to Russian language).
-
-Я нікому не відомий користувач інтернету, і я люблю займатися перекладами чиїхось інших робіт (таких як програми, ігри, книжки чи фанфіки) з англійської на українську мову (також, іноді, російською). 
+I'm small, random internet user, who having fun translating someone else's work (like, games, software, books/fics) from English to Ukrainian language (and, sometimes, to Russian language). | Я нікому не відомий користувач інтернету, і я люблю займатися перекладами чиїхось інших робіт (таких як програми, ігри, книжки чи фанфіки) з англійської на українську мову (також, іноді, російською). 
 
 # And what this repo for?
 _[І для чого тоді цей репозиторій?]_
 
-Here, in this repo i would host neatly organised list of fanfics from https://www.fimfiction.net/, that i translated to Ukrainian language or planning to do so.
-
-Тут, у цьому репозиторії, я буду зберігати зручно організований список усіх фанфіків з https://www.fimfiction.net/, які я переклав українською мовою або тільки планую перекласти.
+Here, in this repo i would host neatly organised list of fanfics from https://www.fimfiction.net/, that i translated to Ukrainian language or planning to do so. | Тут, у цьому репозиторії, я буду зберігати зручно організований список усіх фанфіків з https://www.fimfiction.net/, які я переклав українською мовою або тільки планую перекласти.
 
 # Where is that list and how do i open it?
 _[Де цей список і як його побачити?]_
 
-**ODS version (source) / ODS файл (джерельна версія):**
+**ODS version (source) | ODS файл (джерельна версія):**
 
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_that_i_plan_to_translate.ods;
 
-You should be able to open it with:
-
-Ви зможете відкрити його за допомогою:
+You should be able to open it with: | Ви зможете відкрити його за допомогою:
 * LibreOffice Calc https://www.libreoffice.org/
 * Microsoft Office https://www.microsoft.com/microsoft-365/
 * OnlyOffice https://www.onlyoffice.com
 
-Also, keep in mind, that anything other then ODS version might be:
+Also, keep in mind, that anything other then ODS version might be: | Також варто не забувати, що усі інші версії, окрім ODS можуть бути:
+* Outdated; | Застарілими;
+* Something might be broken at export due to LibreOffice issues. | Можуть містити в собі графічні артефакти, бо експорт файлів у ЛібрОфісі можє іноді посмоктувати.
 
-Також варто не забувати, що усі інші версії, окрім ODS можуть бути:
-* Outdated;
-  Застарілими;
-* Something might be broken at export due to LibreOffice issues.
-  Можуть містити в собі графічні артефакти, бо експорт файлів у ЛібрОфісі можє іноді посмоктувати.
-
-**SVG version / SVG файл:**
+**SVG version | SVG файл:**
 
 https://raw.githubusercontent.com/Vovkiv/mlp_fics_that_i_plan_to_translate/main/mlp_fics_that_i_plan_to_translate.svg
 ![SVG](https://raw.githubusercontent.com/Vovkiv/mlp_fics_that_i_plan_to_translate/main/mlp_fics_that_i_plan_to_translate.svg)
@@ -47,32 +37,27 @@ https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/blob/main/mlp_fics_t
 # I want you to translate my fanfic to Ukrainian language. What should i know and do?
 _[Я хочу, щоб ти переклав мій фанфік українською мовою. Що мені для цього треба робити і знати?]_
 
-_Якщо ви читаєте цей речення, то ви, скоріше за все, і не пишете фанфікі англійською мовою або взагалі не пишети їх. Послуги перекладу з української/російської на англійську я не надаю, бо не володію необхідними знаннями для цього. Якщо ж ви таки пишите фанфікі англійською і бажаєте, щоб я переклав ваш фанфік, то читайте далі._
+Here my first translated fic: https://github.com/Vovkiv/donuts-ukr. | Ось мій перший перекладений фанфік: https://github.com/Vovkiv/donuts-ukr
 
-(Here my first translated fic. Check it, to see how everything will look once i finish translating: https://github.com/Vovkiv/donuts-ukr)
+_IMPORTANT:_ Currently, this list only for fics hosted on fimfiction. You can't suggest me fics from other sites/platforms. | _ВАЖЛИВО:_ У даний момент, цей список існує тільки для переліку фанфіків з fimfiction. Поки що, ми не можете мені запропонувати фанфіки з інших сайтів або платформ.
 
-(Ось мій перший перекладений фанфік. Погляньте на нього, щоб розуміти, як будуть виглядати мої усі інші переклади: https://github.com/Vovkiv/donuts-ukr)
+Terms and conditions, that _I_ should follow: | Правила та умови, які _Я_ повинен виконувати:
 
-(_IMPORTANT:_ Currently, this list only for fics hosted on fimfiction. You can't suggest me fics from other sites/platforms.)
+1. The translation will not be monetized in any way. _(I won't include in the translated fic link(s) where you can donate money to me; no "pay here to get the full version of the translation", etc.)_ | Переклад не буде монетизовуватися. Наприклад, я не стану додавати в перекладену версію посилання, де ви зможете мені задонатити; жодного "заплатіть ось тут щоб отримати повну версію"; тощо.
+2. The translation will not be used to promote my or anyone else's projects/work. _(That means, that if I create some cool project and i will want to promote it, I won't place link to it in translated fic, or promote in different way. BUT, i would be ALLOWED to include link to this list in translation repo and/or translation source.)_ | 
+3. I will be allowed to advertise the translation itself somewhere on third-party resources/services. _(That means, that I will advertise the translated fanfic on my YouTube page, Discord, etc.)_ | 
+4. I will be obligated to add the necessary links: link to your fimfiction page; link to the cover/arts artist (if there any), etc. This apply to repo and for source of  translation. | 
 
-(_ВАЖЛИВО:_ У даний момент, цей список існує тільки для переліку фанфіків з fimfiction. ПОки що, ми не можете мені запропонувати фанфіки з інших сайтів або платформ.)
+Terms and condition, that _YOU_ should follow: | Правила та умови, які _ВИ_ повинні дотримуватися:
+1. Don't be ghost. _(Meaning, that don't ignore my PM's that i send to you for something, related to your fanfic that I'm translating.)_ | Не кидати мене у ігнорування. Це значить, що не ігноруйте мої повідомлення вам пов'язані з вашим фанфіком.
+2. Don't abuse you author's rights on me. _(While you can freely request take down at any time for my translation of your fanfic, please, don't do it, unless you have REALLY GOOD reasons for it.)_ | Хоч ви, як автор фанфіка який я переклав, маєте право запросити у мене, щоб я його прибрав з вільного доступу, будь ласка, не робіть так, якщо у вас немає на це ХОРОШИХ причин.
 
-Terms and conditions, that _I_ should follow:
-1. The translation will not be monetized in any way. _(I won't include in the translated fic link(s) where you can donate money to me; no "pay here to get the full version of the translation", etc.)_
-2. The translation will not be used to promote my or anyone else's projects/work. _(That means, that if I create some cool project and i will want to promote it, I won't place link to it in translated fic, or promote in different way. BUT, i would be ALLOWED to include link to this list in translation repo and/or translation source.)_
-3. I will be allowed to advertise the translation itself somewhere on third-party resources/services. _(That means, that I will advertise the translated fanfic on my YouTube page, Discord, etc.)_
-4. I will be obligated to add the necessary links: link to your fimfiction page; link to the cover/arts artist (if there any), etc. This apply to repo and for source of  translation.
-
-Terms and condition, that _YOU_ should follow:
-1. Don't be ghost. _(Meaning, that don't ignore my PM's that i send to you for something, related to your fanfic.)_
-2. Don't abuse you author's rights on me. _(While you can freely request take down at any time for my translation of your fanfic, please, don't do it, unless you have REALLY GOOD reasons for it.)_
-
-And additional info (answers with "/" is what i would pick, in case if you won't answer on question.):
-1. Can i translate/adapt title of your fanfic?
+And additional info (answers with "/" is what i would pick, in case if you won't answer on question.): | Додаткові питання (Я буду вважати відповіді позначені з "/" відповідями за замовченням, якщо ви не дасте власну відповідь на ці питання. 
+1. Can i translate/adapt title of your fanfic? | Чи можу я перекласти/адаптувати назву вашого фанфіку?
    
-   /Yes: I would be able to freely translate/adapt title, or just use original title, as i wish.
+   /Yes: I would be able to freely translate/adapt title, or just use original title, as i wish. | Так: Я зможу вільно перекласти/адаптувати назву фанфіку, або залишити оригінальну, як я того забажаю.
    
-   No: Title in my translation will be in English.
+   No: Title in my translation will be in English. | Ні
 
    _Note:_ I strongly suggest you to allow me translate title, it will make my job for adapting jokes/context related to title much easier.
 2. Do your fic have cover image?
