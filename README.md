@@ -81,11 +81,11 @@ And additional info (answers with "/" is what i would pick, in case if you won't
 
    _Note:_ Even if you allowed me to use your owned cover, i still leave rights to use something else for cover, if i choose to.
 
-*How much it would cost?*
+*How much it would cost?* | Скільки буде коштувати послуги перекладу?
 
-0, zero, nothing.
+0, zero, nothing. | 0 нуль гривень, 0 нуль копійок.
 
-At the moment of writing this, i don't take money or anything for translating your fanfic. You still can try donate to me or say "thank you!" in some other way, but, it's all up to you. 
+At the moment of writing this, i don't take money or anything for translating your fanfic. You still can try donate to me or say "thank you!" in some other way, but, it's all up to you. | У момент написання цього, я не беру гроші або щось ще за переклад. Якщо вам так сильно кортить, то ви можете мені задонатити або подякувати ще якось, але це не обов'язково. 
 
 If you okay with all of this, then go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and send me PM. (For this, i prefer fimfiction or email, but use whatever you want.)
 
