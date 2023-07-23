@@ -57,23 +57,22 @@ And additional info (answers with "/" is what i would pick, in case if you won't
    
    /Yes: I would be able to freely translate/adapt title, or just use original title, as i wish. | Так: Я зможу вільно перекласти/адаптувати назву фанфіку, або залишити оригінальну, як я того забажаю.
    
-   No: Title in my translation will be in English. | Ні
+   No: Title in my translation will stay the same. | Ні: назва фанфіку залишиться як у оригіналі.
 
-   _Note:_ I strongly suggest you to allow me translate title, it will make my job for adapting jokes/context related to title much easier.
-2. Do your fic have cover image?
+   _Note:_ I strongly suggest you to allow me translate title, it will make my job for adapting jokes/context related to title much easier. | Я рекомендую вам дозволити мені перекладати назву фанфіку, це зробить мою роботу з перекладу значно легше.
+2. Do your fic have cover image? | У вашого фанфіку є обкладинка?
 
-    Yes:
+    Yes: | Так
 
-    No:
+    No: | Ні
    
-3. (If you answered "Yes" on question 2) Do you own rights on cover image?
+3. (If you answered "Yes" on question 2) Do you own rights on cover image? | (Якщо ви відповіли "Так" на питання #2) Чи ви володієте правами на обкладинку?
 
-   Yes:
+   Yes: | Так
 
-   No:
+   No: | Ні
 
-   _Note:_ If you draw cover yourself, if your friend draw cover and give rights on it to you, you commissioned cover from some artist - it's counts as You **OWN** Rights on cover. If you just took image from somewhere else, that was NOT specififcally made for your fanfic, then it counts as You **DON'T OWN** rights on cover. For example, if you opened someone's deviantart and copied link to art and inserted it as cover (don't matter, if artist give you permission on that or don't).
-
+   _Note:_ If you draw cover yourself, if your friend draw cover and give rights on it to you, you commissioned cover from some artist - it's counts as You **OWN** Rights on cover. If you just took image from somewhere else, that was NOT specififcally made for your fanfic, then it counts as You **DON'T OWN** rights on cover. For example, if you opened someone's deviantart and copied link to art and inserted it as cover (don't matter, if artist give you permission on that or don't). | Якщо ви намалювали обкладинку самостійно, або друг намалював вам її і віддав права на неї, або ви замовили аблкадинку у художника - тоді це значить, що ви **_ВОЛОДІЄТЕ_** правами на обкладинку. Якщо ж ви узяли звідкись зображення, яке не було спеціально створено для вашого фанфіку, тоді це значить, що ви **_НЕ ВОЛОДІЄТЕ_** правами на зображення. Наприклад, якщо ви завітаєте на девіантар якогось художника і використаєте його зображення у якості обкладинки (не важливо, якщо вам цей художник дав на це право). 
 4. (If you answered "Yes" on question 3) Can i use your cover in my translation?
 
    /Yes: I also will be able to edit cover image. For example, add translated title to cover, etc.
