@@ -98,12 +98,17 @@ Since I'm translating fics in my free time, it depends on:
 In any case, feel free to ask, how translating is going on, if you think progress stuck on same place!
 
 # I'm artist and i want to take down art that you used in your translation!
-Go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and send me PM.
+_[Я художник і я хочу, щоб ти прибрав мій арт із твого перекладу!]_
+
+Go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and send me PM. | Перейдіть у розділ [Контакти](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) і зв'яжіться зі мною з цього приводу.
 
 # I'm fanfic author and i want to take down translation!
-Go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and send me PM. In case of take down, i would remove link from list file and hide repo. 
+[Я автор фанфіку і я хочу, щоб ти прибрав твій переклад мого фанфіку]
+
+Go to [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) section and send me PM. In case of take down, i would remove link from list file and hide repo. | Перейдіть у розділ [Контакти](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts) і зв'яжіться зі мною з цього приводу. У випадку прибирання перекладу, я видалю посилання на переклад із файлу списку і сховаю цей репозиторій.
 
 # Contacts:
+_[Контакти]_
 * Fimfiction: https://www.fimfiction.net/user/595939/volkov
 * Deviantart: https://www.deviantart.com/gvovkiv
 * Email: volkovissocool@gmail.com
