@@ -148,5 +148,5 @@ _[Контакти]_
 
 * [Fimfiction](https://www.fimfiction.net/user/595939/volkov)
 * [Deviantart](https://www.deviantart.com/gvovkiv)
-* [Email](<volkovissocool@gmail.com>)
+* [Email volkovissocool@gmail.com](mailto:volkovissocool@gmail.com?subject=Fanfic)
 * [Matrix](https://matrix.to/#/@vovkiv:matrix.org)
